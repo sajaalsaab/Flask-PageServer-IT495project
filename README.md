@@ -1,9 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/wC4AGXAl)
-# Project-2-Flask-Pageserver
-
-A project to demonstrate the power of docker and web frameworks
-compared to the previous projects. 
-
 ## Objectives:
 
 * Use Containers (Docker to be specific) to manage software
